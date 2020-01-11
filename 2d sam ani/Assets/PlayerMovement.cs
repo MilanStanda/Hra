@@ -7,7 +7,7 @@ public class PlayerMovement : MonoBehaviour
 
     public CharacterController2D controller;   // vždy když napíšem controller tak to bude odkaz na to co je v řádku v unity u player movementu
 
-    public float runSpeed = 40f;
+    public float runSpeed = 30f;
 
     float horizontalMove = 0f;
     bool jump = false;

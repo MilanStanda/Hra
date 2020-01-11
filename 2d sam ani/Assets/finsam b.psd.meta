@@ -1,7 +1,9 @@
 fileFormatVersion: 2
-guid: 4af8bd8283e77194fae9374aeeb27a1d
+guid: b397bb2e64557a44bbf56eccb6031474
 TextureImporter:
-  fileIDToRecycleName: {}
+  fileIDToRecycleName:
+    21300000: finsam b_0
+    21300002: finsam b_1
   externalObjects: {}
   serializedVersion: 9
   mipmaps:
@@ -40,7 +42,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -93,11 +95,51 @@ TextureImporter:
     androidETC2FallbackOverride: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: finsam b_0
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 55
+        width: 24
+        height: 41
+      alignment: 9
+      pivot: {x: 0.5269614, y: 0.4292268}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b14e71321ff05149894c1ad31f1b154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finsam b_1
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 52
+        width: 27
+        height: 43
+      alignment: 9
+      pivot: {x: 0.46725783, y: 0.48035488}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb551ff4da471c04c824a18cfed79c26
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
-    spriteID: d1ecda6a0bf848048bb83ae1844ff727
+    spriteID: 6f87eec3b559cd9498d0714930b997e0
     vertices: []
     indices: 
     edges: []

@@ -1,0 +1,301 @@
+fileFormatVersion: 2
+guid: fc4e2c04c7b635342abe8387897f3ca1
+ScriptedImporter:
+  fileIDToRecycleName:
+    100000: nohy animace(bezruce)_GO/nohy animace(bezruce)_GO
+    100002: "nohy animace(bezruce)_GO/nohy animace(bezruce)_GO/me\u010D kopie"
+    100004: "nohy animace(bezruce)_GO/nohy animace(bezruce)_GO/me\u010D kopie 2"
+    100006: nohy animace(bezruce)_GO/nohy animace(bezruce)_GO/postava
+    100008: nohy animace(bezruce)_GO/nohy animace(bezruce)_GO/Vrstva 0
+    100010: nohy animace(bezruce)_GO/nohy animace(bezruce)_GO/1
+    100012: "nohy animace(bezruce)_GO/nohy animace(bezruce)_GO/me\u010D kopie 3"
+    100014: nohy animace(bezruce)_GO/nohy animace(bezruce)_GO/2
+    100016: nohy animace(bezruce)_GO/nohy animace(bezruce)_GO/3
+    100018: nohy animace(bezruce)_GO/nohy animace(bezruce)_GO/4
+    100020: "nohy animace(bezruce)_GO/nohy animace(bezruce)_GO/me\u010D kopie 4"
+    400000: nohy animace(bezruce)_GO/nohy animace(bezruce)_GO/Transform
+    400002: "nohy animace(bezruce)_GO/nohy animace(bezruce)_GO/me\u010D kopie/Transform"
+    400004: "nohy animace(bezruce)_GO/nohy animace(bezruce)_GO/me\u010D kopie 2/Transform"
+    400006: nohy animace(bezruce)_GO/nohy animace(bezruce)_GO/postava/Transform
+    400008: nohy animace(bezruce)_GO/nohy animace(bezruce)_GO/Vrstva 0/Transform
+    400010: nohy animace(bezruce)_GO/nohy animace(bezruce)_GO/1/Transform
+    400012: "nohy animace(bezruce)_GO/nohy animace(bezruce)_GO/me\u010D kopie 3/Transform"
+    400014: nohy animace(bezruce)_GO/nohy animace(bezruce)_GO/2/Transform
+    400016: nohy animace(bezruce)_GO/nohy animace(bezruce)_GO/3/Transform
+    400018: nohy animace(bezruce)_GO/nohy animace(bezruce)_GO/4/Transform
+    400020: "nohy animace(bezruce)_GO/nohy animace(bezruce)_GO/me\u010D kopie 4/Transform"
+    2800000: nohy animace(bezruce)
+    21300018: 6438eec850324944786a60223000c8aa
+    21300020: 0710c583c621c324a81f9ce44103801c
+    21300022: 63cdd2de4799e514cb922a441ad6d214
+    21300024: de1c9b9bd825dfe4ea1cc59be928466e
+    100100000: nohy animace(bezruce)_GO
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: b2a9591990af98743ba3ff7cf1000886, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 1
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    isReadable: 0
+    streamingMipmaps: 1
+    streamingMipmapsPriority: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 32
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+  spriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 0, y: 0}
+  mosaicSpriteImportData: []
+  rigSpriteImportData:
+  - name: nohy animace(bezruce)_4
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 54
+      y: 200
+      width: 20
+      height: 44
+    spriteID: 6438eec850324944786a60223000c8aa
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 54, y: 200}
+  - name: nohy animace(bezruce)_5
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 173
+      width: 25
+      height: 41
+    spriteID: 0710c583c621c324a81f9ce44103801c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 4, y: 173}
+  - name: nohy animace(bezruce)_6
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 126
+      width: 24
+      height: 43
+    spriteID: 63cdd2de4799e514cb922a441ad6d214
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 4, y: 126}
+  - name: nohy animace(bezruce)_7
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 54
+      y: 102
+      width: 22
+      height: 43
+    spriteID: de1c9b9bd825dfe4ea1cc59be928466e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 54, y: 102}
+  platformSettings:
+  - name: Default
+    overridden: 1
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  mosaicLayers: 1
+  documentPivot: {x: 0, y: 0}
+  documentAlignment: 7
+  importHiddenLayers: 0
+  importedTextureWidth: 128
+  importedTextureHeight: 256
+  documentSize: {x: 124, y: 124}
+  textureActualWidth: 128
+  textureActualHeight: 256
+  spritePackingTag: 
+  resliceFromLayer: 0
+  characterMode: 1
+  mosaicPSDLayers: []
+  rigPSDLayers:
+  - name: "me\u010D kopie 2"
+    spriteName: "me\u010D kopie 2"
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 6f48ab7819c9d0d4da0a98b47dab2585
+    layerID: 20
+    mosaicPosition: {x: 4, y: 57}
+  - name: "me\u010D kopie 4"
+    spriteName: "me\u010D kopie 4"
+    isGroup: 0
+    parentIndex: -1
+    spriteID: cce2264b95f38f0429cc9d61fb87709e
+    layerID: 29
+    mosaicPosition: {x: 54, y: 151}
+  - name: "me\u010D kopie 3"
+    spriteName: "me\u010D kopie 3"
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 2a5af9343b4fa85408056057777fd836
+    layerID: 25
+    mosaicPosition: {x: 4, y: 4}
+  - name: 4
+    spriteName: 4
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 363baefabd4f6484bb34280fa3414dde
+    layerID: 32
+    mosaicPosition: {x: 54, y: 4}
+  - name: 3
+    spriteName: 3
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 02d49db3723668f419303c3418edc429
+    layerID: 33
+    mosaicPosition: {x: 4, y: 4}
+  - name: 2
+    spriteName: 2
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 8739273d5a30502468e4b8e8f6daa238
+    layerID: 34
+    mosaicPosition: {x: 4, y: 73}
+  - name: 1
+    spriteName: 1
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 56a48ffb600ee9b4e99a6376ca16310b
+    layerID: 31
+    mosaicPosition: {x: 54, y: 53}
+  - name: "me\u010D kopie"
+    spriteName: "me\u010D kopie"
+    isGroup: 0
+    parentIndex: -1
+    spriteID: d7318437446d08a46bab174adf653dec
+    layerID: 18
+    mosaicPosition: {x: 36, y: 4}
+  - name: postava
+    spriteName: postava
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 0a5cf6dbda5cf614d9d0d718884c7970
+    layerID: 13
+    mosaicPosition: {x: 37, y: 57}
+  - name: Vrstva 0
+    spriteName: Vrstva 0
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 0da245fbe90cd0342a96698f54a447d9
+    layerID: 2
+    mosaicPosition: {x: 4, y: 102}
+  characterData:
+    bones: []
+    parts: []
+    dimension: {x: 0, y: 0}
+  boneGOs: []
+  generateGOHierarchy: 0
+  textureAssetName: nohy animace(bezruce)
+  prefabAssetName: nohy animace(bezruce)_GO

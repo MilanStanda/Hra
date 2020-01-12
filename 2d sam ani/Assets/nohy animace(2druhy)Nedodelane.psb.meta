@@ -1,0 +1,448 @@
+fileFormatVersion: 2
+guid: 39162ca2380a2ec4ba7f08103dd0227f
+ScriptedImporter:
+  fileIDToRecycleName:
+    100000: nohy animace(2druhy)Nedodelane_GO/nohy animace(2druhy)Nedodelane_GO
+    100002: nohy animace(2druhy)Nedodelane_GO/nohy animace(2druhy)Nedodelane_GO/1
+    100004: nohy animace(2druhy)Nedodelane_GO/nohy animace(2druhy)Nedodelane_GO/2
+    100006: nohy animace(2druhy)Nedodelane_GO/nohy animace(2druhy)Nedodelane_GO/3
+    100008: nohy animace(2druhy)Nedodelane_GO/nohy animace(2druhy)Nedodelane_GO/4
+    100010: "nohy animace(2druhy)Nedodelane_GO/nohy animace(2druhy)Nedodelane_GO/me\u010D
+      kopie"
+    100012: "nohy animace(2druhy)Nedodelane_GO/nohy animace(2druhy)Nedodelane_GO/me\u010D
+      kopie 2"
+    100014: "nohy animace(2druhy)Nedodelane_GO/nohy animace(2druhy)Nedodelane_GO/me\u010D
+      kopie 3"
+    100016: "nohy animace(2druhy)Nedodelane_GO/nohy animace(2druhy)Nedodelane_GO/me\u010D
+      kopie 4"
+    100018: nohy animace(2druhy)Nedodelane_GO/nohy animace(2druhy)Nedodelane_GO/postava
+    100020: nohy animace(2druhy)Nedodelane_GO/nohy animace(2druhy)Nedodelane_GO/Vrstva
+      0
+    400000: nohy animace(2druhy)Nedodelane_GO/nohy animace(2druhy)Nedodelane_GO/Transform
+    400002: nohy animace(2druhy)Nedodelane_GO/nohy animace(2druhy)Nedodelane_GO/1/Transform
+    400004: nohy animace(2druhy)Nedodelane_GO/nohy animace(2druhy)Nedodelane_GO/2/Transform
+    400006: nohy animace(2druhy)Nedodelane_GO/nohy animace(2druhy)Nedodelane_GO/3/Transform
+    400008: nohy animace(2druhy)Nedodelane_GO/nohy animace(2druhy)Nedodelane_GO/4/Transform
+    400010: "nohy animace(2druhy)Nedodelane_GO/nohy animace(2druhy)Nedodelane_GO/me\u010D
+      kopie/Transform"
+    400012: "nohy animace(2druhy)Nedodelane_GO/nohy animace(2druhy)Nedodelane_GO/me\u010D
+      kopie 2/Transform"
+    400014: "nohy animace(2druhy)Nedodelane_GO/nohy animace(2druhy)Nedodelane_GO/me\u010D
+      kopie 3/Transform"
+    400016: "nohy animace(2druhy)Nedodelane_GO/nohy animace(2druhy)Nedodelane_GO/me\u010D
+      kopie 4/Transform"
+    400018: nohy animace(2druhy)Nedodelane_GO/nohy animace(2druhy)Nedodelane_GO/postava/Transform
+    400020: nohy animace(2druhy)Nedodelane_GO/nohy animace(2druhy)Nedodelane_GO/Vrstva
+      0/Transform
+    2800000: nohy animace(2druhy)Nedodelane
+    21200000: nohy animace(2druhy)Nedodelane_GO/nohy animace(2druhy)Nedodelane_GO/1/SpriteRenderer
+    21200002: nohy animace(2druhy)Nedodelane_GO/nohy animace(2druhy)Nedodelane_GO/2/SpriteRenderer
+    21200004: nohy animace(2druhy)Nedodelane_GO/nohy animace(2druhy)Nedodelane_GO/3/SpriteRenderer
+    21200006: nohy animace(2druhy)Nedodelane_GO/nohy animace(2druhy)Nedodelane_GO/4/SpriteRenderer
+    21200008: "nohy animace(2druhy)Nedodelane_GO/nohy animace(2druhy)Nedodelane_GO/me\u010D
+      kopie/SpriteRenderer"
+    21200010: "nohy animace(2druhy)Nedodelane_GO/nohy animace(2druhy)Nedodelane_GO/me\u010D
+      kopie 2/SpriteRenderer"
+    21200012: "nohy animace(2druhy)Nedodelane_GO/nohy animace(2druhy)Nedodelane_GO/me\u010D
+      kopie 3/SpriteRenderer"
+    21200014: "nohy animace(2druhy)Nedodelane_GO/nohy animace(2druhy)Nedodelane_GO/me\u010D
+      kopie 4/SpriteRenderer"
+    21200016: nohy animace(2druhy)Nedodelane_GO/nohy animace(2druhy)Nedodelane_GO/postava/SpriteRenderer
+    21200018: nohy animace(2druhy)Nedodelane_GO/nohy animace(2druhy)Nedodelane_GO/Vrstva
+      0/SpriteRenderer
+    21300000: 4ab64fd741668e846bdd1749ee202abd
+    21300002: d650dadf19a401040957dbdb9c7dbd24
+    21300004: 5a526df88ead1a4409159bae77a6cda9
+    21300006: af5c16244345cb247b44dbac9fe0147e
+    21300008: ef799386356f56e4e8708e8148e977c6
+    21300010: f5bdd6cc7858d5a45b915e739e1f7785
+    21300012: 5cc2a16eb10d42c4eb7521630b2c0baf
+    21300014: aa4972dcf68f5d74a85d706ea7dd82c3
+    21300016: e61fc7af39dc8094194d504c6dfd901b
+    21300018: 1a981912d8405aa4586691aba15445a4
+    100100000: nohy animace(2druhy)Nedodelane_GO
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: b2a9591990af98743ba3ff7cf1000886, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 1
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    isReadable: 0
+    streamingMipmaps: 1
+    streamingMipmapsPriority: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 100
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+  spriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 0, y: 0}
+  mosaicSpriteImportData: []
+  rigSpriteImportData:
+  - name: "me\u010D kopie 2"
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 106
+      width: 25
+      height: 41
+    spriteID: 4ab64fd741668e846bdd1749ee202abd
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -73, y: 26}
+  - name: "me\u010D kopie 4"
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 53
+      y: 102
+      width: 20
+      height: 41
+    spriteID: d650dadf19a401040957dbdb9c7dbd24
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -51, y: 67}
+  - name: "me\u010D kopie 3"
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 53
+      width: 24
+      height: 45
+    spriteID: 5a526df88ead1a4409159bae77a6cda9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -48, y: -23}
+  - name: 4
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 204
+      width: 22
+      height: 41
+    spriteID: af5c16244345cb247b44dbac9fe0147e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -80, y: 175}
+  - name: 3
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 155
+      width: 23
+      height: 41
+    spriteID: ef799386356f56e4e8708e8148e977c6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -58, y: 126}
+  - name: 2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 41
+      height: 41
+    spriteID: f5bdd6cc7858d5a45b915e739e1f7785
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -34, y: -25}
+  - name: 1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 53
+      y: 4
+      width: 22
+      height: 41
+    spriteID: 5cc2a16eb10d42c4eb7521630b2c0baf
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 37, y: -25}
+  - name: "me\u010D kopie"
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 53
+      y: 53
+      width: 22
+      height: 41
+    spriteID: aa4972dcf68f5d74a85d706ea7dd82c3
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 25, y: -27}
+  - name: postava
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 53
+      y: 151
+      width: 20
+      height: 41
+    spriteID: e61fc7af39dc8094194d504c6dfd901b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 47, y: 71}
+  - name: Vrstva 0
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 37
+      y: 106
+      width: 1
+      height: 2
+    spriteID: 1a981912d8405aa4586691aba15445a4
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -39, y: 33}
+  platformSettings: []
+  mosaicLayers: 1
+  documentPivot: {x: 0, y: 0}
+  documentAlignment: 7
+  importHiddenLayers: 0
+  importedTextureWidth: 128
+  importedTextureHeight: 256
+  documentSize: {x: 124, y: 124}
+  textureActualWidth: 128
+  textureActualHeight: 256
+  spritePackingTag: 
+  resliceFromLayer: 0
+  characterMode: 1
+  mosaicPSDLayers: []
+  rigPSDLayers:
+  - name: "me\u010D kopie 2"
+    spriteName: "me\u010D kopie 2"
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 4ab64fd741668e846bdd1749ee202abd
+    layerID: 20
+    mosaicPosition: {x: 4, y: 106}
+  - name: "me\u010D kopie 4"
+    spriteName: "me\u010D kopie 4"
+    isGroup: 0
+    parentIndex: -1
+    spriteID: d650dadf19a401040957dbdb9c7dbd24
+    layerID: 29
+    mosaicPosition: {x: 53, y: 102}
+  - name: "me\u010D kopie 3"
+    spriteName: "me\u010D kopie 3"
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 5a526df88ead1a4409159bae77a6cda9
+    layerID: 25
+    mosaicPosition: {x: 4, y: 53}
+  - name: 4
+    spriteName: 4
+    isGroup: 0
+    parentIndex: -1
+    spriteID: af5c16244345cb247b44dbac9fe0147e
+    layerID: 32
+    mosaicPosition: {x: 4, y: 204}
+  - name: 3
+    spriteName: 3
+    isGroup: 0
+    parentIndex: -1
+    spriteID: ef799386356f56e4e8708e8148e977c6
+    layerID: 33
+    mosaicPosition: {x: 4, y: 155}
+  - name: 2
+    spriteName: 2
+    isGroup: 0
+    parentIndex: -1
+    spriteID: f5bdd6cc7858d5a45b915e739e1f7785
+    layerID: 34
+    mosaicPosition: {x: 4, y: 4}
+  - name: 1
+    spriteName: 1
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 5cc2a16eb10d42c4eb7521630b2c0baf
+    layerID: 31
+    mosaicPosition: {x: 53, y: 4}
+  - name: "me\u010D kopie"
+    spriteName: "me\u010D kopie"
+    isGroup: 0
+    parentIndex: -1
+    spriteID: aa4972dcf68f5d74a85d706ea7dd82c3
+    layerID: 18
+    mosaicPosition: {x: 53, y: 53}
+  - name: postava
+    spriteName: postava
+    isGroup: 0
+    parentIndex: -1
+    spriteID: e61fc7af39dc8094194d504c6dfd901b
+    layerID: 13
+    mosaicPosition: {x: 53, y: 151}
+  - name: Vrstva 0
+    spriteName: Vrstva 0
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 1a981912d8405aa4586691aba15445a4
+    layerID: 2
+    mosaicPosition: {x: 37, y: 106}
+  characterData:
+    bones: []
+    parts: []
+    dimension: {x: 0, y: 0}
+  boneGOs: []
+  generateGOHierarchy: 0
+  textureAssetName: nohy animace(2druhy)Nedodelane
+  prefabAssetName: nohy animace(2druhy)Nedodelane_GO

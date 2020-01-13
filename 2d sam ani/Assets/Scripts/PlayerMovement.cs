@@ -7,6 +7,8 @@ public class PlayerMovement : MonoBehaviour
 
     public CharacterController2D controller;   // vždy když napíšem controller tak to bude odkaz na to co je v řádku v unity u player movementu
 
+    public Animator animator; // odkazuje na Animator v unity kolonka která je na Playerovi 
+
     public float runSpeed = 30f;
 
     float horizontalMove = 0f;
@@ -19,6 +21,10 @@ public class PlayerMovement : MonoBehaviour
     {
 
         horizontalMove = Input.GetAxisRaw("Horizontal") * runSpeed;
+
+        animator.SetFloat("Speed", Mathf.Abs(horizontalMove));   // tady říkáme že Speed má mít hodnotu horizontalMove. Ale musíme přidat Mathf.Abs(horizontalMove)
+                                                      // Protože když se po ose X pohybujem doleva tak jdem do - ale u hodnoty Speed kterou jsme si nastavili
+                                                      // v Animator->Parameters->"+" nejde jít do - tak absolutní hodnota nám to napraví na +
 
         if (Input.GetButtonDown("Jump"))
         {

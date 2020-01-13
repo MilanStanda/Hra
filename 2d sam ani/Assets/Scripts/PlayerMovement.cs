@@ -9,12 +9,23 @@ public class PlayerMovement : MonoBehaviour
 
     public Animator animator; // odkazuje na Animator v unity kolonka která je na Playerovi 
 
-    public float runSpeed = 30f;
+
+    private Rigidbody2D rb;
+
+    public float runSpeed ;
+    public float walkSpeed = 40f;
+    public float sprintSpeed = 60f;
+
+    
 
     float horizontalMove = 0f;
     bool jump = false;
     bool crouch = false;
+
+
     
+
+
 
     // Update se obnovuje každou sekundu
     void Update()
@@ -47,12 +58,23 @@ public class PlayerMovement : MonoBehaviour
         //pohyb hráče
         controller.Move(horizontalMove * Time.fixedDeltaTime, crouch, jump);   
         jump = false;    //musí být protože jinak bychom skákali do nekonečna
+
+
+        if (Input.GetKey(KeyCode.LeftShift))
+        {
+            runSpeed = sprintSpeed;
+        }
+        else
+            {
+            runSpeed = walkSpeed;
+            }
+
+               
+        
+
     }
 
 
-
-
-
-
+         
 
 }
